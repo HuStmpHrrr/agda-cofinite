@@ -1,1 +1,3 @@
-## Moved away from GithubKisses to Gitlab: <https://gitlab.com/JasonHuZS/agda-cofinite>.
+## Moved away from Github
+
+Kisses to Gitlab: <https://gitlab.com/JasonHuZS/agda-cofinite>.
